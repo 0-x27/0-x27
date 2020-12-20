@@ -1,4 +1,4 @@
-https://i.imgur.com/BxxefmZ.gif
+<img src="https://i.imgur.com/BxxefmZ.gif"/>
 
 <!--
 **0-x27/0-x27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
